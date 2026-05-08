@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Sleep
+Exec=~/.config/fuzzel/custom_ops/sleep.sh
+Icon=preferences-system
+Terminal=false

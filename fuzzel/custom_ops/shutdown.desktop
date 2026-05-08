@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Shutdown
+Exec=~/.config/fuzzel/custom_ops/shutdown.sh
+Icon=preferences-system
+Terminal=false

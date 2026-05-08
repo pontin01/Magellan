@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Reboot
+Exec=~/.config/fuzzel/custom_ops/reboot.sh
+Icon=preferences-system
+Terminal=false
